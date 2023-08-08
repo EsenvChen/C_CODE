@@ -1,0 +1,3 @@
+﻿  test.c
+H:\010_C##code\2023\test_7_20\test_7_20\test.c(201,21): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  test_7_20.vcxproj -> H:\010_C##code\2023\test_7_20\Debug\test_7_20.exe
